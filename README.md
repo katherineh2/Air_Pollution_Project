@@ -1,5 +1,14 @@
 # Air_Pollution_Project
 
+Air pollution remains a serious issue in many urban areas, particularly due to traffic emissions.
+
+## Research Question:
+
+Our research question is:
+
+## Has the introduction of the Low Emission Zone (LEZ) in Glasgow significantly reduced NO₂ and PM2.5 levels?
+
+
 ## Project Aims:
 To evaluate the effectiveness of Glasgow’s Low Emission Zone (LEZ) in reducing air pollution, specifically NO₂ and PM2.5 levels.
 
