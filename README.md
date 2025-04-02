@@ -1,6 +1,15 @@
 # Air_Pollution_Project
 
-## Project Aims
+## Project Aims:
+To evaluate the effectiveness of Glasgow’s Low Emission Zone (LEZ) in reducing air pollution, specifically NO₂ and PM2.5 levels.
+
+## Project Objectives:
+
+Analyse NO₂ and PM2.5 levels before and after the LEZ implementation
+
+Identify trends and patterns using data visualisation
+
+Evaluate whether the LEZ has led to a statistically significant improvement in air quality
 
 
 ## Contributers
