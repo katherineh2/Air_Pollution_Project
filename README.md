@@ -1,7 +1,7 @@
 # Air_Pollution_Project
 
 
-##Sourcing the Data
+## Sourcing the Data
 
 Sources:
 I found the stations on the map, here:
@@ -10,7 +10,9 @@ Zoomed into Glasgow, and compared it to the map of the LEZ here:
 https://www.glasgow.gov.uk/LEZ
 
 
-Townhead, Kerbside (inside LEZ), Great Western Rd, High St (outside LEZ)
+Townhead, Kerbside
+
+(inside LEZ), Great Western Rd, High St (outside LEZ)
 These four are on the Automatic Urban and Rural network, and I found the data here:
 https://uk-air.defra.gov.uk/data/data_selector_service?show=auto&submit=Reset&f_limit_was=1
 
@@ -23,6 +25,7 @@ Here I selected:
 - [get data] is on the right
 
 Anderston, Byres road
+
 These two are on the Locally Managed Automatic Monitoring, and I found the data by selecting that option on this map: 
 https://uk-air.defra.gov.uk/interactive-map?network=nondefraaqmon
 
