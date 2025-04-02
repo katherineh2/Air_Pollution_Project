@@ -20,6 +20,20 @@ Identify trends and patterns using data visualisation
 
 Evaluate whether the LEZ has led to a statistically significant improvement in air quality
 
+## Files in this Repository
+
+_Air_Pollution_Dashboard.pbix  - PowerBi Dashboard and Visualisations
+
+_Air_Pollution_Presentation.pptx  - Overview of Process and Conclusions
+
+_Analysis_workbook.ipynb  - Colab workbook, Analysis code
+
+_Cleaning_workbook.ipynb  - Colab workbook, Cleaning code
+
+6 cleaned data files - these were used for the analysis
+
+10 raw files sourced as described below - includes extras that were considered for inclusion later
+
 
 ## Contributers
 
