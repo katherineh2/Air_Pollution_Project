@@ -8,7 +8,9 @@
 Each of us was responsible for one step in the process, but all group members contributed to each part.
 
 Data sourcing and Cleaning  - Delia - deliabel 
+
 Analysis with Python  - Zaib - za1bahm3d
+
 PowerBI Dashboard and Visualisations  - Dominika - Dlewan15
 
 
