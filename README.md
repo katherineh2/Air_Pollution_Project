@@ -4,8 +4,6 @@ Air pollution remains a serious issue in many urban areas, particularly due to t
 
 ## Research Question:
 
-Our research question is:
-
 ## Has the introduction of the Low Emission Zone (LEZ) in Glasgow significantly reduced NO₂ and PM2.5 levels?
 
 
